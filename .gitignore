@@ -41,6 +41,8 @@ MANIFEST
 *.build/
 *.dist/
 *.onefile-build/
+.Nuitka_Build/
+Nuitka_Build/
 
 # =========================================
 # Project-specific ignores
